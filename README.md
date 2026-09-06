@@ -1,3 +1,3 @@
 # TemanCipta — HRIS
 
-TemanCipta adalah aplikasi HRIS berbasis web untuk mendukung pengelolaan sumber daya manusia, mencakup data karyawan, absensi, pengajuan cuti, dan ringkasan payroll dalam satu platform.
+TemanCipta is a web-based HRIS designed to support human resource management, bringing employee records, attendance, leave requests, and payroll summaries together in one platform.
